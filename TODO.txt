@@ -1,0 +1,7 @@
+- 'Currently playing' with formatting
+
+- Next/precedent
+
+- Volume up/down
+
+Basically the whole control bar part of the official Spotify app.
